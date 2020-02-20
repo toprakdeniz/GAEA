@@ -1,2 +1,2 @@
-# Want-to-learn
+# Anteus
 https://12factor.net/
